@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ClickThisLink is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://clickthislink.xyz
+ClickThisLink provides a free AI visibility audit tool that checks whether your website can be found and recommended by AI assistants such as ChatGPT, Claude, Perplexity, Grok, and Google. The service scans your site’s raw HTML without running JavaScript, evaluates SEO, AEO, and GEO factors, and offers actionable fixes. It operates with no cookies, no user accounts, and does not store or publish results, ensuring privacy while helping businesses improve AI-driven discoverability.
+
+**Areas:** Company · SEO · AI · Visibility · FreeTool
+
+## ClickThisLink on APIs.io
+
+Everything profiled for ClickThisLink is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/clickthislink/](https://apis.io/providers/clickthislink/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [ClickThisLink Badge API](https://apis.io/apis/clickthislink/clickthislink-badge-api/) — The Badge API from ClickThisLink — 1 operation(s) for badge.
+- [ClickThisLink Badge.svg API](https://apis.io/apis/clickthislink/clickthislink-badge-svg-api/) — The Badge.svg API from ClickThisLink — 1 operation(s) for badge.svg.
+- [ClickThisLink Check API](https://apis.io/apis/clickthislink/clickthislink-check-api/) — The Check API from ClickThisLink — 1 operation(s) for check.
+- [ClickThisLink Share.png API](https://apis.io/apis/clickthislink/clickthislink-share-png-api/) — The Share.png API from ClickThisLink — 1 operation(s) for share.png.
+- [ClickThisLink Share.svg API](https://apis.io/apis/clickthislink/clickthislink-share-svg-api/) — The Share.svg API from ClickThisLink — 1 operation(s) for share.svg.
+- [ClickThisLink Main API](https://apis.io/apis/clickthislink/clickthislink-main-api/) — The main ClickThisLink API providing SEO/AEO/GEO checks and badge generation.
+- [ClickThisLink opt Out API](https://apis.io/apis/clickthislink/clickthislink-opt-out-api/) — The opt Out API from ClickThisLink — 2 operation(s) for opt out.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ClickThisLink Agentic Access](https://apis.io/agentic-access/clickthislink/clickthislink-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [ClickThisLink Openapi Overlay](https://apis.io/overlays/clickthislink/clickthislink-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ClickThisLink API Rules](https://apis.io/rules/clickthislink/clickthislink-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ClickThisLink Domain Security](https://apis.io/security/clickthislink/clickthislink-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [ClickThisLink Plans Pricing](https://apis.io/plans/clickthislink/clickthislink-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://clickthislink.xyz)
+- [Documentation](https://clickthislink.xyz/api)
+- [Getting started](https://clickthislink.xyz/about)
+- [API reference](https://clickthislink.xyz/openapi.json)
+- [Support](https://clickthislink.xyz/privacy)
+- [Blog](https://clickthislink.xyz/)
+
+## API Evangelist rating
+
+**Kin Score 34.4** — thin · rubric 0.27.0 · scored 2026-11-15
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 44.7 |
+| Contract governance | 31.8 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 33.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/clickthislink/](https://apis.io/providers/clickthislink/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ClickThisLink: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/clickthislink/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
